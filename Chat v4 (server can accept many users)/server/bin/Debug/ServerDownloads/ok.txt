@@ -1,0 +1,82 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System;
+using System.IO;
+using System.Net.Sockets;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Project_Client
+{
+    public partial class Form1 : Form
+    {
+        TcpClient client;
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private async void btnSend_Click(object sender, EventArgs e)
+        {
+            txtResponse.Text = "";
+
+            
+            string request = txtRequest.Text;
+
+            try
+            {
+                using (NetworkStream stream = client.GetStream())
+                using (StreamReader reader = new StreamReader(stream))
+                using (StreamWriter writer = new StreamWriter(stream) { AutoFlush = true })
+                {
+                    await writer.WriteLineAsync(request);
+
+                    string response = await reader.ReadLineAsync();
+                    txtResponse.AppendText("Response:\r\n" + response + "\r\n");
+
+                    if (response == "FILES")
+                    {
+                        while (true)
+                        {
+                            response = await reader.ReadLineAsync();
+                            if (response == "END") break;
+                            txtResponse.AppendText(response + "\r\n");
+                        }
+                    }
+                    else if (response.StartsWith("FILESIZE:"))
+                    {
+                        int fileSize = int.Parse(response.Substring(9));
+                        byte[] buffer = new byte[fileSize];
+                        int bytesRead = await stream.ReadAsync(buffer, 0, fileSize);
+
+                        SaveFileDialog saveFileDialog = new SaveFileDialog();
+                        if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                        {
+                            File.WriteAllBytes(saveFileDialog.FileName, buffer);
+                            MessageBox.Show("File downloaded successfully");
+                        }
+                    }
+                    else if (response.StartsWith("ERROR"))
+                    {
+                        txtResponse.AppendText("Error: " + response + "\r\n");
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                txtResponse.AppendText($"Error: {ex.Message}\r\n");
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string serverAddress = txtServer.Text;
+            client = new TcpClient(serverAddress, 12345);
+        }
+    }
+}

@@ -1,0 +1,10 @@
+﻿ private void button1_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog op = new OpenFileDialog();
+            if(op.ShowDialog() == DialogResult.OK)
+            {
+                path = op.FileName;
+  
+            }
+
+        }

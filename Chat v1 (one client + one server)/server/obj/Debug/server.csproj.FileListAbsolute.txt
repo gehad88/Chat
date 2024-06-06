@@ -1,0 +1,30 @@
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\bin\Debug\server.exe.config
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\bin\Debug\server.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\bin\Debug\server.pdb
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.Form1.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.Properties.Resources.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.pdb
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.exe.config
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.pdb
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.Form1.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.Properties.Resources.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.pdb
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.exe.config
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.exe
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.pdb
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.AssemblyReference.cache
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.Form1.resources
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.Properties.Resources.resources
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.GenerateResource.cache
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.exe
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.pdb

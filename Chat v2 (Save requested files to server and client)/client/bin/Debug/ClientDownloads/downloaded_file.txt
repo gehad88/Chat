@@ -1,0 +1,16 @@
+FILES
+DIR:C:\Users\Gehad\Desktop\Chat v4\client\.vs
+DIR:C:\Users\Gehad\Desktop\Chat v4\client\bin
+DIR:C:\Users\Gehad\Desktop\Chat v4\client\obj
+DIR:C:\Users\Gehad\Desktop\Chat v4\client\Properties
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\4k-programming-127001-w1546vdzj8vyw519.webp
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\App.config
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\client.csproj
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\client.sln
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\Form1.cs
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\Form1.Designer.cs
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\Form1.resx
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\okooo.txt
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\okooo.txt.enc
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\photo_2024-05-17_13-01-11.jpg
+FILE:C:\Users\Gehad\Desktop\Chat v4\client\Program.cs

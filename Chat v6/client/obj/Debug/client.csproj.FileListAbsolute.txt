@@ -1,0 +1,80 @@
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\client\bin\Debug\client.exe.config
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\client\bin\Debug\client.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\client\bin\Debug\client.pdb
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\client\obj\Debug\client.Form1.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\client\obj\Debug\client.Properties.Resources.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\client\obj\Debug\client.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\client\obj\Debug\client.pdb
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\client\bin\Debug\client.exe.config
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\client\bin\Debug\client.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\client\bin\Debug\client.pdb
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.Form1.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.Properties.Resources.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.pdb
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\client\bin\Debug\client.exe.config
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\client\bin\Debug\client.exe
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\client\bin\Debug\client.pdb
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.Form1.resources
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.Properties.Resources.resources
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.exe
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\client\obj\Debug\client.pdb
+C:\Users\Gehad\Desktop\Chat v1\client\bin\Debug\client.exe.config
+C:\Users\Gehad\Desktop\Chat v1\client\bin\Debug\client.exe
+C:\Users\Gehad\Desktop\Chat v1\client\bin\Debug\client.pdb
+C:\Users\Gehad\Desktop\Chat v1\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\Chat v1\client\obj\Debug\client.Form1.resources
+C:\Users\Gehad\Desktop\Chat v1\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Gehad\Desktop\Chat v1\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Gehad\Desktop\Chat v1\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\Desktop\Chat v1\client\obj\Debug\client.exe
+C:\Users\Gehad\Desktop\Chat v1\client\obj\Debug\client.pdb
+C:\Users\Gehad\Desktop\Chat v2\client\bin\Debug\client.exe.config
+C:\Users\Gehad\Desktop\Chat v2\client\bin\Debug\client.exe
+C:\Users\Gehad\Desktop\Chat v2\client\bin\Debug\client.pdb
+C:\Users\Gehad\Desktop\Chat v2\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\Chat v2\client\obj\Debug\client.Form1.resources
+C:\Users\Gehad\Desktop\Chat v2\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Gehad\Desktop\Chat v2\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Gehad\Desktop\Chat v2\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\Desktop\Chat v2\client\obj\Debug\client.exe
+C:\Users\Gehad\Desktop\Chat v2\client\obj\Debug\client.pdb
+C:\Users\Gehad\Desktop\Chat v3\client\bin\Debug\client.exe.config
+C:\Users\Gehad\Desktop\Chat v3\client\bin\Debug\client.exe
+C:\Users\Gehad\Desktop\Chat v3\client\bin\Debug\client.pdb
+C:\Users\Gehad\Desktop\Chat v3\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\Chat v3\client\obj\Debug\client.Form1.resources
+C:\Users\Gehad\Desktop\Chat v3\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Gehad\Desktop\Chat v3\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Gehad\Desktop\Chat v3\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\Desktop\Chat v3\client\obj\Debug\client.exe
+C:\Users\Gehad\Desktop\Chat v3\client\obj\Debug\client.pdb
+C:\Users\Gehad\Desktop\Chat v4\client\bin\Debug\client.exe.config
+C:\Users\Gehad\Desktop\Chat v4\client\bin\Debug\client.exe
+C:\Users\Gehad\Desktop\Chat v4\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\Chat v4\client\obj\Debug\client.Form1.resources
+C:\Users\Gehad\Desktop\Chat v4\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Gehad\Desktop\Chat v4\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Gehad\Desktop\Chat v4\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\Desktop\Chat v4\client\obj\Debug\client.exe
+C:\Users\Gehad\Desktop\Chat v4\client\obj\Debug\client.pdb
+C:\Users\Gehad\Desktop\Chat v4\client\bin\Debug\client.pdb
+C:\Users\Gehad\Desktop\Chat v5\client\bin\Debug\client.exe.config
+C:\Users\Gehad\Desktop\Chat v5\client\bin\Debug\client.exe
+C:\Users\Gehad\Desktop\Chat v5\client\bin\Debug\client.pdb
+C:\Users\Gehad\Desktop\Chat v5\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\Chat v5\client\obj\Debug\client.Form1.resources
+C:\Users\Gehad\Desktop\Chat v5\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Gehad\Desktop\Chat v5\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Gehad\Desktop\Chat v5\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\Desktop\Chat v5\client\obj\Debug\client.exe
+C:\Users\Gehad\Desktop\Chat v5\client\obj\Debug\client.pdb

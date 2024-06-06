@@ -1,0 +1,60 @@
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\bin\Debug\server.exe.config
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\bin\Debug\server.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\bin\Debug\server.pdb
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.Form1.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.Properties.Resources.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\SimpleTCP\server\obj\Debug\server.pdb
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.exe.config
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.pdb
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.Form1.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.Properties.Resources.resources
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.exe
+D:\College\Network Programming\Training and sheets solutions\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.pdb
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.exe.config
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.exe
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\bin\Debug\server.pdb
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.AssemblyReference.cache
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.Form1.resources
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.Properties.Resources.resources
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.GenerateResource.cache
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.exe
+E:\FCI\FCI 4.2\Network\Sheet 3\Deliverables\NetworkStreamTCP\server\obj\Debug\server.pdb
+C:\Users\Gehad\Desktop\Chat v2\server\bin\Debug\server.exe.config
+C:\Users\Gehad\Desktop\Chat v2\server\bin\Debug\server.exe
+C:\Users\Gehad\Desktop\Chat v2\server\bin\Debug\server.pdb
+C:\Users\Gehad\Desktop\Chat v2\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\Chat v2\server\obj\Debug\server.Form1.resources
+C:\Users\Gehad\Desktop\Chat v2\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Gehad\Desktop\Chat v2\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Gehad\Desktop\Chat v2\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\Desktop\Chat v2\server\obj\Debug\server.exe
+C:\Users\Gehad\Desktop\Chat v2\server\obj\Debug\server.pdb
+C:\Users\Gehad\Desktop\Chat v3\server\bin\Debug\server.exe.config
+C:\Users\Gehad\Desktop\Chat v3\server\bin\Debug\server.exe
+C:\Users\Gehad\Desktop\Chat v3\server\bin\Debug\server.pdb
+C:\Users\Gehad\Desktop\Chat v3\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\Chat v3\server\obj\Debug\server.Form1.resources
+C:\Users\Gehad\Desktop\Chat v3\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Gehad\Desktop\Chat v3\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Gehad\Desktop\Chat v3\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\Desktop\Chat v3\server\obj\Debug\server.exe
+C:\Users\Gehad\Desktop\Chat v3\server\obj\Debug\server.pdb
+C:\Users\Gehad\Desktop\Chat v4\server\bin\Debug\server.exe.config
+C:\Users\Gehad\Desktop\Chat v4\server\bin\Debug\server.exe
+C:\Users\Gehad\Desktop\Chat v4\server\bin\Debug\server.pdb
+C:\Users\Gehad\Desktop\Chat v4\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\Chat v4\server\obj\Debug\server.Form1.resources
+C:\Users\Gehad\Desktop\Chat v4\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Gehad\Desktop\Chat v4\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Gehad\Desktop\Chat v4\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\Desktop\Chat v4\server\obj\Debug\server.exe
+C:\Users\Gehad\Desktop\Chat v4\server\obj\Debug\server.pdb
